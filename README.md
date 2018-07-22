@@ -6,6 +6,8 @@ The app dynamically generates table with the values from user input data (train-
 This app calculates when the next train will arrive relative to the current time.
 The user input data is stored in firebase database; data can be removed (if needed)
 
+follow the link: https://bethgmariam.github.io/TrainScheduler/
+
 Built With:
 
 Bootstrap - for HTML/CSS framework; 
